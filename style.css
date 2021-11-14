@@ -97,7 +97,7 @@ h4 {
 .pay {
     width: 270px;
     background-color: hsl(245, 75%, 52%);
-    color: hsl(225, 100%, 98%);
+    color: white;
     border-radius: 10px;
     padding: 7px 2px;
     border: none;
@@ -109,6 +109,7 @@ h4 {
     color: hsl(225, 100%, 98%);
     border-radius: 10px; */
     opacity: 0.6;
+    color: white;
 }
 
 .cancel {
@@ -118,6 +119,7 @@ h4 {
     padding-bottom: 5px;
     margin-bottom: 10px;
     cursor: pointer;
+    opacity: 0.8;
 }
 .cancel:hover{
     opacity: 0.9;
